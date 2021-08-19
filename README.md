@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NLP Word Completion Project](https://github.com/jhusney1/Word-Completion-with-NLP)
 
-- 🌱 I’m currently learning **react, keras, statistics**
+- 🌱 I’m currently learning **React, Keras, Statistical Analysis**
 
 - 📝 My blogs can be found on [joeyhusney1.medium.com](joeyhusney1.medium.com)
 
