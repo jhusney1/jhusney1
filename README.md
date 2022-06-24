@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joey Husney</h1>
 <h3 align="center">A full-stack developer from NYC with knowledge in data analysis/analytics</h3>
 
-- 🔭 I’m currently working on [NLP Word Completion Project](https://github.com/jhusney1/Word-Completion-with-NLP)
 
-- 🌱 I’m currently learning **React, Keras, Statistical Analysis**
+- 🌱 I’m currently learning fundamentals of Python 3 through [this] (https://www.udemy.com/course/python-3-deep-dive-part-4) course
 
 - 📝 My blogs can be found on [joeyhusney1.medium.com](joeyhusney1.medium.com)
 
